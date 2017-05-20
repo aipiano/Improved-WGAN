@@ -1,5 +1,5 @@
 # Improved-WGAN
-A WGAN implementation using Tensorflow.
+A Tensorflow implementation of weight-penalty-based WGAN.
 
 Use a modified(remove batch_norm layers in the critic) DCGAN model.
 
